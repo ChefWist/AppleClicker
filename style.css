@@ -1,0 +1,8 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#Board {
+    border: 0px solid #000000;
+}
